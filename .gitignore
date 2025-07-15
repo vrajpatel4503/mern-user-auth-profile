@@ -1,0 +1,11 @@
+# Ignore node_modules and env files globally
+node_modules/
+.env
+
+# Frontend specific
+/frontend/node_modules/
+/frontend/.env
+
+# Backend specific
+/backend/node_modules/
+/backend/.env
