@@ -1,0 +1,5 @@
+# .gitignore
+node_modules/
+.env
+frontend/node_modules/
+backend/node_modules/
